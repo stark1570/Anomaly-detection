@@ -2,15 +2,11 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Python: The code should work with Python 3.6 or later.
+NumPy: The latest version of NumPy is 1.20.0, but the code should work with earlier versions as well.
+Pandas: The latest version of Pandas is 1.3.5, but the code should work with earlier versions as well.
+scikit-learn: The latest version of scikit-learn is 0.24.2, but the code should work with earlier versions as well.
+matplotlib: The latest version of matplotlib is 3.4.3, but the code should work with earlier versions as well.
 
 ## Reporting a Vulnerability
 
